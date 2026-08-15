@@ -1,6 +1,6 @@
 # NexaByte Solutions — Company Profile Website
 
-**Course:** ITST 302 – Client-Server Technologies
+**Course:** ITST 302 – CLIENT-SERVER TECHNOLOGIES
 **Module:** Module 1 – Laravel MVC Architecture
 **Mini Project:** MP02 – Company Profile Website
 **Student:** Janel Fae O. Beltran — BSIT 3B
