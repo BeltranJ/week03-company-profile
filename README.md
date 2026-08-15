@@ -188,23 +188,41 @@ Used to pull in a smaller partial view without passing it through the component 
 
 ## 9. Screenshots
 
-> Place all screenshots in the `screenshots/` folder and reference them below.
+### Home Page
+![Home Page](screenshots/home.png)
 
-- Home Page — `screenshots/home.png`
-- About Page — `screenshots/about.png`
-- Services Page — `screenshots/services.png`
-- Contact Page — `screenshots/contact.png`
-- Navigation Bar — `screenshots/navbar.png`
-- Footer — `screenshots/footer.png`
-- Route Definitions (`web.php`) — `screenshots/web-php-routes.png`
-- Controller (`CompanyController.php`) — `screenshots/company-controller.png`
-- Blade Layout — `screenshots/blade-layout.png`
-- VS Code Project — `screenshots/vscode-project.png`
-- Laravel Folder Structure — `screenshots/folder-structure.png`
-- GitHub Repository — `screenshots/github-repo.png`
-- Browser Output — `screenshots/browser-output.png`
+### About Page
+![About Page](screenshots/about.png)
 
----
+### Services Page
+![Services Page](screenshots/services.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
+
+### Navigation Bar
+![Navigation Bar](screenshots/navbar.png)
+
+### Footer
+![Footer](screenshots/footer.png)
+
+### VS Code — Laravel Folder Structure
+![Folder Structure](screenshots/folder-structure.png)
+
+### GitHub Repository
+![GitHub Repository](screenshots/github-repo.png)
+
+### Browser Output
+![Browser Output](screenshots/browser-output.png)
+
+### Route Definitions (`web.php`)
+![Route Definitions](screenshots/web-php-routes.png)
+
+### Controller (`CompanyController.php`)
+![CompanyController](screenshots/company-controller.png)
+
+### Blade Layout
+![Blade Layout](screenshots/blade-layout.png)
 
 ## 10. Problems Encountered
 
