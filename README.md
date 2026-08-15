@@ -3,7 +3,7 @@
 **Course:** ITST 302 – Client-Server Technologies
 **Module:** Module 1 – Laravel MVC Architecture
 **Mini Project:** MP02 – Company Profile Website
-**Student:** Janel Fae O. Beltran (Bang) — BSIT 3B
+**Student:** Janel Fae O. Beltran — BSIT 3B
 **Repository:** `week03-company-profile`
 
 ---
